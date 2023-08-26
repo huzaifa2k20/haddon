@@ -1,0 +1,2 @@
+<?php
+edit_comment(  );
